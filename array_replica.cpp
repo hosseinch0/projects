@@ -33,6 +33,7 @@ public:
             cout << array[i] << endl;
         }
     }
+	// hossein added these methods
 
     int del(int index)
     {
