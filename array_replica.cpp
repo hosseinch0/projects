@@ -3,6 +3,7 @@ using namespace std;
 
 class ArrayReplica
 {
+    // faraz added this method
 private:
     int array[100];
     int cruiser = 0;
