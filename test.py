@@ -10,3 +10,7 @@ def append():
 
 def insert():
 //faraz added 
+
+
+def test2():
+    pass
