@@ -7,3 +7,6 @@ def test():
 
 def append():
     // appen method 
+
+def insert():
+//faraz added 
